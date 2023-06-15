@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ADV_C105_SA2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "126"
+	}
+}
